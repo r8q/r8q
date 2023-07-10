@@ -4,14 +4,6 @@
   <img align="left" alt="Burak's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/selfweezerr/">
-  <img align="left" alt="Burak's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://t.me/glovelace/">
-  <img align="left" alt="Burak Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
 <br />
 <br />
 
@@ -29,7 +21,7 @@
 - 🌱 I' currently researching cybersecurity with a great interest in cybersecurity practices. 
 - 🤔 My interest lies in front end web development.
 - 🎆 Ask me about anything, I love to answer!
-- 📫 Email me at [gustavfidan@bugpunisher.com](mailto:gustavfidan@bugpunisher.com).
+- 📫 Email me at [lilgustie@gmail.com](mailto:lilgustie@gmail.com).
 
 
 <h2>
