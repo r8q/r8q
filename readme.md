@@ -21,7 +21,7 @@
 - 🌱 I' currently researching cybersecurity with a great interest in cybersecurity practices. 
 - 🤔 My interest lies in front end web development.
 - 🎆 Ask me about anything, I love to answer!
-- 📫 Email me at [lilgustie@gmail.com](mailto:lilgustie@gmail.com).
+- 📫 Email me at [gusto.fidan@icloud.com](mailto:gusto.fidan@icloud.com).
 
 
 <h2>
